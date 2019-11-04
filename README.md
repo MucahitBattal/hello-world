@@ -1,5 +1,5 @@
 # hello-world
 
-hello my world repo
+my hello world repo
 
-this my first changing
+bye
